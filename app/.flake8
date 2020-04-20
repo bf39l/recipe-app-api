@@ -5,4 +5,4 @@ exclude =
   manage.py,
   settings.py
 
-ignore = E111
+ignore = E111, F401
